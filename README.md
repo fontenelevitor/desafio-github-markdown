@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+# Desafio GitHub Markdown
+
+Este projeto foi criado para **simular colaboração no GitHub** utilizando Markdown.  
+O objetivo é exercitar práticas de versionamento, edição colaborativa e fluxo de trabalho com múltiplos usuários.
+
+---
+
 ## 📌 O que foi feito
 - Criação do repositório `desafio-github-markdown` pela conta **fontenelevitor**.
 - Adição da conta **vgsfontenele** como colaborador.
@@ -8,11 +14,11 @@
 - Realização de commits e push para o repositório remoto.
 - Criação de branchs e abertura de **Pull Requests**.
 - Abertura e gerenciamento de **Issues** para organizar melhorias.
-=======
-# Desafio GitHub Markdown
-
-Este projeto foi criado para **simular colaboração no GitHub** utilizando Markdown.  
-O objetivo é exercitar práticas de versionamento, edição colaborativa e fluxo de trabalho com múltiplos usuários.
->>>>>>> 99817c62ba2baa26adbdfbb12867c24e69843fa7
 
 ---
+
+## 🛠️ Instruções para reproduzir
+1. **Clonar o repositório** em duas pastas diferentes:
+   ```bash
+   git clone https://github.com/fontenelevitor/desafio-github-markdown.git desafio-fontenelevitor
+   git clone https://github.com/fontenelevitor/desafio-github-markdown.git desafio-vgsfontenele
